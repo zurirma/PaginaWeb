@@ -1,0 +1,14 @@
+body {
+
+background-color: limegreen;
+font-family: Arial, Helvetica, sans-serif;
+}
+#encabezado {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 298px;
+    margin: 8px;
+}
